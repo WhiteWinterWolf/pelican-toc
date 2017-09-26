@@ -7,5 +7,7 @@ an article with headers
 
 ###Magic
 
+####Subtitle
+
 ###Result
 
